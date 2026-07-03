@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuhin-armoy-chowdhury.github.io/minimal-portfolio/sitemap.xml
+Sitemap: https://tuhin-armoy-chowdhury.github.io/sitemap.xml
